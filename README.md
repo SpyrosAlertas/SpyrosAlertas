@@ -1,6 +1,6 @@
 # Welcome to my github profile!
 
-Here you can find staluff about:
+Here you can find stuff about:
   
 ***Databases: SQL/MySQL***  
 ***Back End: Java, Spring Boot, NodeJS, JavaScript***  
